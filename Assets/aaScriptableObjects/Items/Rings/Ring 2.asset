@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841f3287b1f68264796a24f48305bb67, type: 3}
+  m_Name: Ring 2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 454134668, guid: a0a6a43edbfde6c48b150dee6dc96e7b, type: 3}
+  name: Ring1
+  rarity: 0
+  buyPrice: 0
+  sellPrice: 0
+  level: 10
+  Peso: 0
+  equipType: 3
+  hp: 50
+  stamina: 0
+  mana: 0
+  dmg: 10
+  speed: 0
+  criticalDmg: 0
+  criticalPercent: 0
+  criticalResistance: 0
+  armor: 0
+  shield: 20
+  Mind: 0
+  Dexterity: 0

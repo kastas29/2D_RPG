@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2af5d91542ee554fb0ea5df83cb0df5, type: 3}
+  m_Name: BaseStatsPlayer
+  m_EditorClassIdentifier: 
+  hp: 100
+  stamina: 50
+  stamina_regenVelocity: 1
+  mana: 30
+  mana_regenVelocity: 1
+  dmg: 10
+  speed: 3
+  criticalDmg: 0
+  criticalPercent: 5
+  criticalResistance: 0
+  armor: 10
+  shield: 100
+  damagePercent: 0
+  peso: 0
+  FireMaestry: 5
+  WaterMaestry: 5
+  EarthMaestry: 5
+  AirMaestry: 5
+  xp: 0
+  xp_nextLevel: 1000
+  level: 1
